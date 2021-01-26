@@ -21,10 +21,6 @@
   bottom: 10px;
 }
 .nav__info {
-  background-color: tomato;
-  width: 5px;
-  height: 5px;
-  border-radius: 50%;
   position: absolute;
   left: 20px;
   bottom: 18px;
