@@ -36,5 +36,12 @@
 }
 
 .user-component__column:last-child {
-  color: rgb(130, 130, 130);
+  color: rgba(0,0,0,0.4);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.user-component__time{
+  margin-bottom: 8px;
+  display: block;
 }
